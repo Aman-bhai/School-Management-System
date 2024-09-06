@@ -1,5 +1,5 @@
 # School Management System 
-- This project is a School Management System implemented using SQL on the command prompt through the XAMPP server. The system is designed to handle various school operations using a relational database model. The project incorporates fundamental database concepts, such as key constraints (primary and foreign keys), and includes complex SQL queries like joins to manage and extract data effectively. The system uses sample data to demonstrate various functionalities, including student management, teacher assignments, and course scheduling, without a frontend interface.
+- This project is a School Management System implemented using SQL on the command prompt through the XAMPP server. The system is designed to handle various school operations using a relational database model. The project incorporates fundamental database concepts, such as key constraints (primary and foreign keys), and includes complex SQL queries like joins to manage and extract data effectively. The system uses sample data to demonstrate various functionalities, including student management, teacher records, parents records, without a frontend interface.
 
 
 ## Features:
