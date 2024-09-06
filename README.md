@@ -28,4 +28,4 @@
 - Primary Key: Ensures unique identification of records.
 - Foreign Key: Maintains referential integrity between related tables.
 ## Usage:
--This project is designed for educational purposes and can be extended further with a frontend interface and additional functionalities.
+- This project is designed for educational purposes and can be extended further with a frontend interface and additional functionalities.
